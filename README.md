@@ -1,3 +1,64 @@
+Hi there, I'm Mayank Maurya 👋
+
+Proactive Computer Science Student | Big Data Analytics | Full Stack & ML Engineer
+
+💫 About Me
+
+I am a Computer Science Engineering student specializing in Big Data Analytics at Chandigarh University. I have a strong foundation in software development, data analysis, and machine learning, with a passion for building full-stack applications and translating raw data into actionable insights.
+
+🎓 Education: B.E. in Computer Science (Big Data Analytics) @ Chandigarh University (GPA: 8.5)
+
+💡 Interests: Competitive Programming, Data Science, Full-Stack Development, Speed Cubing
+
+🌱 Currently Learning: Advanced Scalable Systems & Deep Learning Model Calibration
+
+🛠️ Tech Stack
+
+💻 Languages & Core
+
+🌐 Web Development (MERN & More)
+
+📊 Data Science, ML & Analytics
+
+🗄️ Databases & Cloud Platform
+
+🚀 Featured Projects
+
+📂 Productivity Tracker (2025)
+
+Developed a full-stack MERN productivity application designed to seamlessly track tasks, habits, daily goals, and routines.
+
+Implemented real-time analytical productivity insights and interactive performance reports.
+
+Securely managed user credentials and session tokens via Firebase Authentication.
+
+Tech Stack: MongoDB | Express.js | React.js | Node.js | Firebase | Tailwind CSS
+
+🔗 Live Demo 🌐 | Source Code 💻
+
+📂 Indian E-Commerce Analytics Dashboard (2026)
+
+Designed an interactive Power BI dashboard tracking crucial e-commerce sales revenue and key customer performance metrics.
+
+Created an optimized star schema data model using advanced DAX measures ($Revenue$, $Margin \%$, $Return Rate$, and $YoY Growth$).
+
+Leveraged dynamic state-level map visualizations to offer comprehensive regional business insights.
+
+Tech Stack: Power BI | DAX | Data Modeling
+
+🔗 Live Dashboard 🌐 | Source Code 💻
+
+📂 IPL Match Win Predictor (2026)
+
+Built and trained a Random Forest classifier model analyzing historical ball-by-ball IPL datasets to forecast live match scenarios.
+
+Incorporated probability calibration methods to output reliable prediction ranges.
+
+Deployed an interactive UI using Streamlit to simulate match trajectories dynamically.
+
+Tech Stack: Python | Scikit-learn | Pandas | Streamlit
+
+🔗 Live App 🌐 | Source Code 💻
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mayank-Maurya975) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mayankmaurya359@gmail.com) 
