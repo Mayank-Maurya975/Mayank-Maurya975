@@ -1,14 +1,6 @@
 Hi there, I'm Mayank Maurya 👋
 
-Proactive Computer Science Student | Big Data Analytics | Full Stack & ML Engineer
 
-💫 About Me
-
-I am a Computer Science Engineering student specializing in Big Data Analytics at Chandigarh University. I have a strong foundation in software development, data analysis, and machine learning, with a passion for building full-stack applications and translating raw data into actionable insights.
-
-🎓 Education: B.E. in Computer Science (Big Data Analytics) @ Chandigarh University (GPA: 8.5)
-
-💡 Interests: Competitive Programming, Data Science, Full-Stack Development, Speed Cubing
 
 
 
